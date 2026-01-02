@@ -3,21 +3,9 @@
 I'm interested in backend development and currently studying in South Korea.  
 If you're interested, feel free to send me a message!
 
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-black?style=flat&logo=ghost&logoColor=white)](https://your-blog-url.com) 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username&countBg=%237D3AEA&titleBg=%23555555&icon=&iconColor=%23E7E7E7&title=hits&edgeFlat=false)
-
 ---
 
-- 💻 I'm a backend developer in training at Ozz Coding School.  
-- 🌍 I live in South Korea and am learning English and Python.  
-- 🎯 Currently focusing on Linux, Git, and Python.  
-- 🚀 Always eager to learn new technologies.  
-- 📫 How to reach me: netrunnerr25@gmail.com  
-- 😄 Fun fact: I love coding and coffee!
-
----
-
-## Languages and Tools
+## 🔹 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
@@ -25,21 +13,29 @@ If you're interested, feel free to send me a message!
 
 ---
 
-## GitHub Stats
+## 🔹 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)](https://github.com/your-username)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)](https://github.com/your-username)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netrunnerr25&layout=compact&theme=default)](https://github.com/netrunnerr25)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=netrunnerr25&show_icons=true&theme=default)](https://github.com/netrunnerr25)  
 
 ---
 
-## Pinned Projects
+## 🔹 Pinned Projects
 
 - 📘 
+---
 
+## 🔹 Contributions
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=netrunnerr25&theme=react-dark-blue)
 
 ---
 
-## Contributions
+## 🔹 Contact / Profile
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark-blue)
-
+| Platform          | Link / Email                                      |
+|-------------------|-------------------------------------------------|
+| GitHub            | [netrunnerr25](https://github.com/netrunnerr25)|
+| Email             | netrunnerr25@gmail.com                           |
+| LinkedIn          | [LinkedIn Profile](https://linkedin.com/in/your-profile) |
+| Blog / Portfolio  | [Blog / Portfolio](https://your-portfolio.com)  |

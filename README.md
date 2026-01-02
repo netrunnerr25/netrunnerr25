@@ -13,21 +13,9 @@ If you're interested, feel free to send me a message!
 
 ---
 
-## 📊 GitHub Stats 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netrunnerr25&layout=compact&theme=default)](https://github.com/netrunnerr25)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=netrunnerr25&show_icons=true&theme=default)](https://github.com/netrunnerr25)  
-
----
-
 ##  📌  Pinned Projects  📌 
 
 - 📘 
----
-
-## 🌱 Contributions 🌱
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=netrunnerr25&theme=react-dark-blue)
 
 ---
 

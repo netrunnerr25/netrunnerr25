@@ -5,7 +5,7 @@ If you're interested, feel free to send me a message!
 
 ---
 
-## 🔹 Languages and Tools
+## 🛠️ Languages and Tools 🛠️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
@@ -13,25 +13,25 @@ If you're interested, feel free to send me a message!
 
 ---
 
-## 🔹 GitHub Stats
+## 📊 GitHub Stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netrunnerr25&layout=compact&theme=default)](https://github.com/netrunnerr25)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=netrunnerr25&show_icons=true&theme=default)](https://github.com/netrunnerr25)  
 
 ---
 
-## 🔹 Pinned Projects
+##  📌  Pinned Projects  📌 
 
 - 📘 
 ---
 
-## 🔹 Contributions
+## 🌱 Contributions 🌱
 
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=netrunnerr25&theme=react-dark-blue)
 
 ---
 
-## 🔹 Contact / Profile
+## ✉️ Contact / Profile ✉️
 
 | Platform          | Link / Email                                      |
 |-------------------|-------------------------------------------------|
